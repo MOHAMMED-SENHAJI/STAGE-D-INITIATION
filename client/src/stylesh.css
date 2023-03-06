@@ -1,0 +1,10 @@
+.contain-read {
+    display: inline;
+}
+
+.table {
+    --bs-table-bg: #2a342d;
+    --bs-table-hover-color: #b6c68b;
+    color: #fbfbfb;
+}
+
